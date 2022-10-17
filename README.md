@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/sanket_beladiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanket_beladiya" height="30" width="40" /></a>
 <a href="https://in.linkedin.com/in/sanket-beladiya-39247b202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket beladiya" height="30" width="40" /></a>
-<a href="https://fb.com/sanket beladiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanket beladiya" height="30" width="40" /></a>
+<a href="https://hi-in.facebook.com/sanket.beladiya.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanket beladiya" height="30" width="40" /></a>
 <a href="https://instagram.com/sanket_beladiya_333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanket_beladiya_333" height="30" width="40" /></a>
 </p>
 
