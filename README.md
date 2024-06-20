@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanket Beladiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
+- 🌱 I’m currently learning **ANDROID MOBILE DEVELOPMENT**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Android | Web Development**
 
 - 📫 How to reach me Via my Email **sanketbeladiya332003@gmail.com**
 
